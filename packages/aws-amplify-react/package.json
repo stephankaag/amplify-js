@@ -1,6 +1,6 @@
 {
-  "name": "aws-amplify-react",
-  "version": "2.3.12",
+  "name": "@stephankaag/aws-amplify-react",
+  "version": "2.3.12.1",
   "description": "AWS Amplify is a JavaScript library for Frontend and mobile developers building cloud-enabled applications.",
   "main": "dist/index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aws/aws-amplify.git"
+    "url": "git+https://github.com/stephankaag/aws-amplify.git"
   },
   "author": "Amazon Web Services",
   "license": "Apache-2.0",
